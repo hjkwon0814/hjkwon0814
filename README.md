@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align=center><h1>Stacks</div>
 
 <div align=center>
