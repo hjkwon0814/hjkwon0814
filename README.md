@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=git&logoColor=white">
   
 </div>
+<hr>
+<div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjkwon0814&layout=compact&theme=tokyonight%20&langs_count=20)
+</div
 <!--
 **hjkwon0814/hjkwon0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
