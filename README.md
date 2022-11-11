@@ -38,7 +38,7 @@
 <hr>
 <div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjkwon0814&layout=compact&theme=tokyonight%20&langs_count=20)
-</div
+  </div>
 <!--
 **hjkwon0814/hjkwon0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
